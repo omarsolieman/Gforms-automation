@@ -2,10 +2,6 @@
 
 JavaScript / Cypress script that fills out Google Forms automatically.
 
-### Author
-
-[Héctor Reyes](https://github.com/hreyesm)
-
 ## Demo
 
 ![](./img/demo.gif)
